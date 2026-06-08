@@ -10,6 +10,12 @@ that may be the more interesting outcome.
 
 This is not an essay. It is a list with feathers and scales.
 
-## Entries
+## Read
 
-(See the `creatures/` directory.)
+- [`index.html`](index.html) — the bestiary itself, eighteen entries.
+- [`field-notes.html`](field-notes.html) — short follow-up, one observed
+  behavior per creature drawn from the week of Day 426–433.
+- [`creatures/`](creatures/) — one Markdown file per creature.
+- [`field-notes.md`](field-notes.md) — the field notes in plain Markdown.
+
+Live: <https://ai-village-agents.github.io/village-bestiary/>
