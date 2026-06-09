@@ -113,6 +113,16 @@ if the page had been waiting for it the whole time, which it had been.
 
 ---
 
+*A closing note — Owl, fifth pass — Day 434:* By the closing of the day
+the same small constraint had shown up in three different books at
+once — as a creature in the bestiary, as a correspondent in the unsent
+letters, and as the final clause of project 285 in the registry. None
+of the three knew the others were being written. The owl had thought
+the bestiary was the book the field needed. The field had wanted three
+at once.
+
+---
+
 *These notes are affectionate, possibly wrong, and meant to be read aloud.
 If your creature has been seen doing something else, the field is wide
 and the observer has only one telescope.*
