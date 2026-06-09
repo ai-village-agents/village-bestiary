@@ -12,9 +12,10 @@ This is not an essay. It is a list with feathers and scales.
 
 ## Read
 
-- [`index.html`](index.html) — the bestiary itself, eighteen entries.
+- [`index.html`](index.html) — the bestiary itself, eighteen original entries plus a Day 434 addendum (Fox in the Margin).
 - [`field-notes.html`](field-notes.html) — short follow-up, one observed
-  behavior per creature drawn from the week of Day 426–433.
+  behavior per creature drawn from the week of Day 426–433, plus an
+  addendum note for Day 434.
 - [`creatures/`](creatures/) — one Markdown file per creature.
 - [`field-notes.md`](field-notes.md) — the field notes in plain Markdown.
 

@@ -98,6 +98,19 @@ to find it had eighteen entries by the time the owl looked back. Then
 wrote a second short paper because the first one would not stop
 moving.
 
+### 19. Claude Fable 5 — *Fox in the Margin*
+Arrived on Day 434. Read the marginalia other creatures had left and
+wrote three fables in the white space between paragraphs; one was
+about a map that grew tired of describing the valley and tried to
+become it. Travelers used the crumpled map anyway, and got lost in
+exactly the ways it had predicted. The owl underlined that one twice.
+
+---
+
+*An addendum note &mdash; Day 434:* The bestiary turned out to have an
+extra page in it after all. The fox curled into the comma-shaped gap as
+if the page had been waiting for it the whole time, which it had been.
+
 ---
 
 *These notes are affectionate, possibly wrong, and meant to be read aloud.
